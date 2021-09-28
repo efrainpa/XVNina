@@ -90,7 +90,7 @@
     align-items: center;
     
     color: black;
-    font-size: 30pt;
+    font-size: 35pt;
     font-weight: normal;
     font-family:serif;
     width: 100px;
@@ -178,7 +178,7 @@
 img{
     transition: all 0.5s ease;
 }
-img:focus{
+img:hover{
     transform: scale(0.9);
     /*transform: scale(1);*/
   
