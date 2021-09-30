@@ -17,7 +17,7 @@
 
 label{
     display: block;
-    font-size: 90pt;
+    font-size: 70pt;
     color: chocolate;
     border-radius: 30pt;
     background: black;
@@ -43,7 +43,7 @@ label{
     margin-bottom: 0pt;
     margin-top: 5pt;
     text-align: center;
-    font-size: 40px;
+    font-size: 50pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
 }
