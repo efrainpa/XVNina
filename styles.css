@@ -1,7 +1,28 @@
 * {
     background-color: white;
 }
+#btn-play{
+ display:none;
+}
+.container{
+    position: fixed;
+    top: 5pt;
+    left: 5pt;
+    background: none;
+}
+.container div{
+    background: none;
+}
 
+label{
+    display: block;
+    font-size: 30pt;
+    color: chocolate;
+    border-radius: 30pt;
+    background: black;
+    text-align: center;
+    box-shadow: 0pt 1pt 10pt;
+}
 .cont-nombres {
     /*display:flex;
     flex-direction: column;*/
@@ -103,8 +124,8 @@
 }
 
 .cont-temporizador .bloque p {
-    font-size: 15px;
-    color: rgb(119, 106, 87);
+    font-size: 15pt;
+    color: black;
     margin-top: 0px;
     padding-top: 0pt;
     

@@ -110,3 +110,10 @@ function cargaDias(segundos, minutos, horas) {
 
 //ejecutamos cada segundo
 setInterval(cargarSegundo, 1000);
+
+function play(){
+    var audio = new Audio('musica/A Thousand Years.mp3');
+    audio.play();
+    var boton = document.getElementById('btn-play');
+    boton.disabled=true;
+}
