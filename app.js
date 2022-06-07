@@ -1,6 +1,6 @@
 //Resto las fechas para saber los dias
 const fechaPrueba = new Date();
-const fechaBoda = new Date('11/06/2021');
+const fechaBoda = new Date('07/30/2022');
 const diaP = fechaPrueba.getDate();
 const mesP = fechaPrueba.getMonth() + 1;
 const anioP = fechaPrueba.getFullYear();
